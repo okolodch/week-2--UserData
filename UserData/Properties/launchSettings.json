@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "UserData": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\oleks\\source\\repos\\UserData"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
